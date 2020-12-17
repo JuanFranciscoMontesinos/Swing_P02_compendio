@@ -8,7 +8,7 @@
  Para ejecutar la aplicación desde Windows, en el ejecutable simplemente hacer doble clic.
  Para ejecutar desde linea de comandos dirigirse a la ruta donde se encuentra el ejecutable, después simplemente escribir el nombre del ejecutable y pulsar enter.
   ```bash
-  ruta\swing_c_p02_montesinosParraJuanFrancisco.java
+  ruta\swing_c_p02_montesinosParraJuanFrancisco.jar
   ```
  
  ### Construido
